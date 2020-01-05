@@ -1,3 +1,3 @@
-""" A file for putting to first-repo, then up to my remote github."""
+""" A file for testing push and pull"""
 
-print ("Hello, this is a file for putting to first-repo, then up to my remote github.")
+print ("Hello, this is a file modified on remote github, intended to move to local.")
